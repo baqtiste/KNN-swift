@@ -1,2 +1,2 @@
-# KNN-swift
-A simple implementation of the K Nearest Neighbors classifier in Swift
+# K-Nearest Neighbors in Swift
+A simple implementation of the k-nearest neighbors algorithm in Swift.
